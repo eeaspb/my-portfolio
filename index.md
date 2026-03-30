@@ -6,7 +6,7 @@
 
 ---
 
-📂 *[Посмотреть исходный код и PDF-версию на GitHub](https://github.com)*
+📂 *[Посмотреть исходный код и PDF-версию на GitHub](https://github.com/eeaspb/my-portfolio)*
 
 ---
 
