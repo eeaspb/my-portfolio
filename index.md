@@ -66,7 +66,7 @@
   
 1. Подождите. Когда лифт окажется на этаже, кнопка вызова лифта станет синей, вокруг загорится сиреневый ободок (рис. 3).
 
-   <img src="Рисунок 3 - кнопка Вызов лифта.png" width="120" style="border: 1px solid #ccc; display: block; margin-top: 10px; margin-bottom: 5px;">
+   <img src="Рисунок 3 - Кнопка Вызов лифта.png" width="120" style="border: 1px solid #ccc; display: block; margin-top: 10px; margin-bottom: 5px;">
 
    *Рис. 3 — Кнопка вызова лифта*
       
