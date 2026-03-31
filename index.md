@@ -32,7 +32,7 @@
 2. Внизу экрана потяните вверх розовую шторку. Откроется экран дополнительных функций.
 3. Нажмите кнопку **«Управление лифтами»** (рис. 1). Откроется экран **«Вызов лифта»**.     
    
-  <img src="Рисунок 1 - Кнопка button-1.png" width="120" style="border: 1px solid #ccc; display: block; margin-bottom: 5px;">
+  <img src="Рисунок 1 - button-1.png" width="120" style="border: 1px solid #ccc; display: block; margin-bottom: 5px;">
   
   *Рис. 1 — Кнопка **«Управление лифтами»***
    
