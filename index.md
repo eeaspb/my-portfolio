@@ -7,6 +7,7 @@
 ---
 
 📂 *[Посмотреть исходный код на GitHub](https://github.com/eeaspb/my-portfolio)*
+
 📄 *[Открыть инструкцию в формате PDF (для печати)](./Elevator_Call_Manual.pdf)*
 
 ---
