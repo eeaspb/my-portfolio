@@ -52,7 +52,7 @@
 * `1` — первый этаж;  
 * `7` или другой номер — этаж, на котором расположена ваша квартира.
 
-<img src="Рисунок 2 - Экран Вызов лифта.png" width="250" style="border: 1px solid #ccc; display: block; margin-top: 15px; margin-bottom: 5px;">
+<img src="Рисунок 2 - button-2.png" width="250" style="border: 1px solid #ccc; display: block; margin-top: 15px; margin-bottom: 5px;">
 
 *Рис. 2 — Экран **«Вызов лифта»***
 
@@ -68,7 +68,7 @@
   
 1. Подождите. Когда лифт окажется на этаже, кнопка вызова лифта станет синей, вокруг загорится сиреневый ободок (рис. 3).
 
-<img src="Рисунок 3 - Кнопка Вызов лифта.png" width="120" style="border: 1px solid #ccc; display: block; margin-top: 10px; margin-bottom: 5px;">
+<img src="Рисунок 3 - button-3.png" width="120" style="border: 1px solid #ccc; display: block; margin-top: 10px; margin-bottom: 5px;">
 
 *Рис. 3 — Кнопка вызова лифта*
       
